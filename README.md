@@ -3,7 +3,7 @@
 **Lead Researcher & Developer:** Pieter Barkema  
 **Status:** Reference Implementation (Research in Prep)
 
-A high-performance Python pipeline for **Distributed Neuroimaging Analysis**. This repository implements **CCI**, a novel statistical framework I developed to investigate whether cortical noise in the human brain carries functional information for object recognition.
+A high-performance Python pipeline for **Distributed Neuroimaging Analysis**. This repository implements **CCI**, a novel statistical framework I developed to investigate whether noise in human brain activity carries functional information for object recognition.
 
 ---
 
