@@ -3,7 +3,7 @@
 **Lead Researcher & Developer:** Pieter Barkema  
 **Status:** Reference Implementation (Research in Prep)
 
-A high-performance Python pipeline for **Distributed Neuroimaging Analysis**. This repository implements **CCI**, a novel statistical framework I developed to investigate whether noise in human brain activity carries functional information for object recognition.
+A high-performance Python pipeline for **Distributed Neuroimaging Analysis**. This repository implements **CCI**, a novel statistical framework I developed to investigate whether noise in human brain activity carries functional information for instant object class recognition (rapid recognition of 'animals' vs. 'objects').
 
 ---
 
@@ -36,7 +36,7 @@ This project is designed for **Research Engineering** at scale:
 
 ---
 
-## 📖 Related Literature & Frameworks
+## 📖 mathematical concepts
 CCI bridges the gap between cognitive neuroscience and established Machine Learning concepts:
 * **Manifold Learning:** Treating neural states as points on a low-dimensional manifold.
 * **Probabilistic PCA:** Modeling the structure of noise relative to latent variables.
@@ -52,4 +52,4 @@ CCI bridges the gap between cognitive neuroscience and established Machine Learn
 ---
 
 ## 🎓 Impact
-This pipeline is currently used in the **Kietzmann Lab** (Donders Institute) for MEG-analysis. The results provide evidence that cortical variance is structured and functionally relevant to how the human brain recognizes object classes.
+This pipeline is currently used in the **Kietzmann Lab** (Donders Institute) for MEG-analysis. The results provide evidence that cortical variance is structured and functionally relevant to how the human brain recognizes object categories (like 'animals' or 'objects').
